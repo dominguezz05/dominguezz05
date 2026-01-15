@@ -1,52 +1,100 @@
-<h1 align="center">¡Hola! 👋 Soy Iker</h1>
-<h3 align="center">Desarrollador Web apasionado por crear soluciones útiles y funcionales</h3>
+<div align="center">
+<table width="100%">
+  <tr>
+    <!-- COLUMNA IZQUIERDA: TEXTO -->
+    <td align="left" valign="middle">
 
-<p align="center">
-  <a href="https://portafolio-mu-flame.vercel.app/" target="_blank">🌐 Mi Portafolio</a> •
-  <a href="mailto:ikerdc2005@gmail.com">📧 Contacto</a> •
-  <a href="https://www.linkedin.com/in/iker-dom%C3%ADnguez-calcerrada-423736298/">💼 LinkedIn</a>
+<h1 align="center">Iker Domínguez · Software Developer</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+<h3 align="center">Web & Mobile · Security & Tooling · Continuous Learning</h3>
+
+<p align="center">
+  <a href="https://portafolio-mu-flame.vercel.app/" target="_blank">🌐 Portafolio</a> ·
+  <a href="mailto:ikerdc2005@gmail.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/iker-dom%C3%ADnguez-calcerrada-423736298/">💼 LinkedIn</a>
+</p>
+    </td>
+    <td align="right" valign="middle" width="180">
+      <img src="./devr.gif" alt="Developer" width="200" height="200" style="border-radius: 50;">
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
+
+
 
 ### 🚀 Sobre mí
 
-- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web  
-- 🌍 Vivo en **Madrid, España**  
-- 👨‍💻 Actualmente trabajando en proyectos propios y académicos  
-- 📌 Interesado en desarrollo web, herramientas para desarrolladores y análisis de datos  
-- 💡 Siempre aprendiendo y mejorando mis habilidades técnicas y de diseño  
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web y Multiplataforma
 
----
+- 📍 Madrid, España
 
-### 🛠️ Tecnologías que uso
+- 🧠 Interesado en desarrollo web, movil, automatización, seguridad y data
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- 🧩 Me gusta crear software útil, modular y funcional
 
----
+- 🧰 Enfocado en developer tooling, optimizaciones, UI/UX y security mindset
 
-### 🧩 Proyectos Destacados
-
-- **💻 [DevToll Express](https://github.com/dominguezz05/devtools-express)** – Plataforma todo-en-uno con herramientas esenciales para desarrolladores  
-- **🎮 Monkey's Paradise** – Videojuego arcade 2D para móviles con IA y física  
-- **📦 ThreeLogics (TFG)** – Sistema de optimización de procesos logísticos en almacenes  
-- **🛠️ Grupo Oro** – Desarrollo y mantenimiento de software backend y proyectos reales  
+- 📚 Siempre aprendiendo (actual: Security + Automation + Tools Engineering)
 
 ---
 
 
-### 🤝 ¡Conectemos!
 
-- 📫 Email: ikerdc2005@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/iker-dom%C3%ADnguez-calcerrada-423736298/)  
-- 🌐 [Portafolio](https://portafolio-mu-flame.vercel.app/)
+### 📦 Proyectos Destacados
+
+🔹 **SDAS — Security Detection & Analysis System**  
+> Sistema didáctico de ciberseguridad en Java: monitor de integridad, análisis de tráfico simulado y detección de procesos sospechosos.  
+📍 https://github.com/dominguezz05/SDAS-Security-Detection-Analysis-System
+
+🔹 **DevTools Express**  
+> Plataforma todo-en-uno con herramientas esenciales para desarrolladores  
+📍 https://github.com/dominguezz05/devtools-express  
+
+🔹 **Monkey's Paradise**  
+> Videojuego arcade 2D para móviles con IA y física  
+
+
+🔹 **ThreeLogics (TFG)**  
+> Sistema de optimización logística para almacenes  
+📍 https://github.com/threeLogics/threelogics-app
+
 
 ---
 
-> *“Software developer constantly learning.”*
+### 🧲 Áreas de interés
+
+- Web Dev + Tools
+- Developer Experience (DX)
+- Seguridad defensiva
+- Automatización
+- Data + análisis
+- Ingeniería de software aplicada
+
+---
+
+### 🤝 Conectemos
+
+📧 Email → **ikerdc2005@gmail.com**
+
+🔗 LinkedIn →  
+https://www.linkedin.com/in/iker-dom%C3%ADnguez-calcerrada-423736298/
+
+🌐 Portafolio →  
+https://portafolio-mu-flame.vercel.app/
+
+---
+
+<p align="center"><i>“Software developer constantly learning.”</i></p>
