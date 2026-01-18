@@ -52,24 +52,43 @@
 ---
 
 
-
 ### 📦 Proyectos Destacados
 
-🔹 **SDAS — Security Detection & Analysis System**  
-> Sistema didáctico de ciberseguridad en Java: monitor de integridad, análisis de tráfico simulado y detección de procesos sospechosos.  
+#### ⭐ Focus Pulse — Extensión VS Code
+> Mide el foco real al programar con Pomodoro, XP, rachas, niveles y dashboard en tiempo real.  
+![badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![badge](https://img.shields.io/badge/VS%20Code%20Extension-007ACC?logo=visualstudiocode&logoColor=white)
+![badge](https://img.shields.io/badge/Productivity-0ea5e9)
+📍 https://marketplace.visualstudio.com/items?itemName=dominguezz05.focus-pulse
+
+#### 🔐 SDAS — Security Detection & Analysis System
+> Sistema didáctico de ciberseguridad: monitor de integridad, análisis de tráfico simulado y detección de procesos sospechosos.  
+![badge](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
+![badge](https://img.shields.io/badge/CyberSec-111827)
+![badge](https://img.shields.io/badge/Simulation-334155)
 📍 https://github.com/dominguezz05/SDAS-Security-Detection-Analysis-System
 
-🔹 **DevTools Express**  
-> Plataforma todo-en-uno con herramientas esenciales para desarrolladores  
+#### 🧰 DevTools Express — Tool Suite
+> Plataforma todo-en-uno con herramientas esenciales para desarrolladores.  
+![badge](https://img.shields.io/badge/Full--Stack-0ea5e9)
+![badge](https://img.shields.io/badge/DevTools-6366f1)
+![badge](https://img.shields.io/badge/Productivity-22c55e)
 📍 https://github.com/dominguezz05/devtools-express  
 
-🔹 **Monkey's Paradise**  
-> Videojuego arcade 2D para móviles con IA y física  
+#### 🎮 Monkey's Paradise — Videojuego Móvil 2D (GOOGLE PLAY)
+> Arcade 2D para móviles con física e IA.  
+![badge](https://img.shields.io/badge/GameDev-8b5cf6)
+![badge](https://img.shields.io/badge/Physics-22c55e)
+![badge](https://img.shields.io/badge/AI-0ea5e9)
+📍 (repositorio privado )
 
-
-🔹 **ThreeLogics (TFG)**  
-> Sistema de optimización logística para almacenes  
+#### 🏭 ThreeLogics (TFG) — Optimización Logística
+> Sistema de optimización logística para almacenes.  
+![badge](https://img.shields.io/badge/Optimization-0ea5e9)
+![badge](https://img.shields.io/badge/Logistics-475569)
+![badge](https://img.shields.io/badge/TFG-334155)
 📍 https://github.com/threeLogics/threelogics-app
+
 
 
 ---
