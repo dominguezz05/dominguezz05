@@ -93,27 +93,38 @@
 
 ---
 
-### 🧲 Áreas de interés
+### 🧲 Áreas de Interés & Especialización
 
-- Web Dev + Tools
+- Web Dev & Developer Tools
 - Developer Experience (DX)
-- Seguridad defensiva
-- Automatización
-- Data + análisis
+- Seguridad defensiva & detección
+- Automatización de procesos
+- Productividad & medición del trabajo
 - Ingeniería de software aplicada
+- Análisis y toma de decisiones basada en datos
+
+---
+
+### 🌍 En qué estoy centrado ahora
+
+✔ Construir herramientas que reduzcan fricción al desarrollador  
+✔ Medir/analizar procesos para optimizarlos  
+✔ Mejorar la DX y la productividad en entornos técnicos  
 
 ---
 
 ### 🤝 Conectemos
 
-📧 Email → **ikerdc2005@gmail.com**
+📧 **Email**  
+→ ikerdc2005@gmail.com
 
-🔗 LinkedIn →  
-https://www.linkedin.com/in/iker-dom%C3%ADnguez-calcerrada-423736298/
+🔗 **LinkedIn**  
+→ https://www.linkedin.com/in/iker-dom%C3%ADnguez-calcerrada-423736298/
 
-🌐 Portafolio →  
-https://portafolio-mu-flame.vercel.app/
+🌐 **Portafolio**  
+→ https://portafolio-mu-flame.vercel.app/
 
 ---
 
-<p align="center"><i>“Software developer constantly learning.”</i></p>
+<p align="center"><i>“Building tools that make developers faster.”</i></p>
+
