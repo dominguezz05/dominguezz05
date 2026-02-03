@@ -104,7 +104,7 @@ TypeScript • VS Code API • Git Integration
 Published on Marketplace
 ```
 
-**[📦 Marketplace](https://marketplace.visualstudio.com/items?itemName=dominguezz05.focus-pulse)** · **[⭐ GitHub](https://github.com/dominguezz05/focus-pulse)**
+**[📦 Marketplace](https://marketplace.visualstudio.com/items?itemName=dominguezz05.focus-pulse)** · **[⭐ GitHub](https://github.com/dominguezz05/focus-pulse)** · **[⭐ Open VSX ](https://open-vsx.org/extension/dominguezz05/focus-pulse)**
 
 <img src="https://img.shields.io/visual-studio-marketplace/i/dominguezz05.focus-pulse?color=blue&label=Installs&style=flat-square"/> <img src="https://img.shields.io/visual-studio-marketplace/r/dominguezz05.focus-pulse?color=green&label=Rating&style=flat-square"/>
 
