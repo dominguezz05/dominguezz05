@@ -33,18 +33,19 @@
 ```typescript
 const iker = {
   location: "📍 Madrid, Spain",
-  education: " Web & Mobile Development",
-  current_focus: ["🔧 Developer Tooling", "🔐 Security Engineering", "📊 Data-Driven Development"],
+  education: "Web & Mobile Development",
+  current_focus: ["🤖 AI-Powered Tools", "🔐 Security Engineering", "📊 Data-Driven Development"],
   philosophy: "Building tools that make developers faster and code safer",
   languages: ["Spanish 🇪🇸", "English 🇬🇧"],
 
   skills: {
-    frontend: ["React", "Vue", "Tailwind CSS", "Vite"],
-    backend: ["Node.js", "Express", "Supabase", "REST APIs"],
+    frontend: ["React", "Next.js", "Vue", "Tailwind CSS", "Vite"],
+    backend: ["Node.js", "Express", "FastAPI", "Supabase", "REST APIs"],
     mobile: ["React Native", "Android SDK"],
+    ai: ["LangChain", "Groq API", "Llama 3.3 70B", "SSE Streaming"],
     devtools: ["VS Code Extensions", "CLI Tools", "Git Hooks"],
     security: ["Threat Detection", "Code Analysis", "Security Monitoring"],
-    languages: ["TypeScript", "JavaScript", "Java", "Python", ]
+    languages: ["TypeScript", "JavaScript", "Python", "Java"]
   },
 
   currently_learning: ["Advanced Security Patterns", "CI/CD Automation", "Cloud Architecture"],
@@ -63,12 +64,12 @@ const iker = {
 
 <!-- FRONTEND -->
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,vite,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,html,css" />
 </p>
 
 <!-- BACKEND & TOOLS -->
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres,git,github" />
 </p>
 
 <!-- DEVTOOLS & MORE -->
@@ -88,6 +89,31 @@ const iker = {
 <tr>
 <td width="50%">
 
+### 🧠 LegacyCode Whisperer
+#### AI Technical Debt Auditor · Full-Stack
+
+**AI-powered legacy code analysis platform**
+
+- 🔍 Hybrid static + LLM analysis (0-100 health score)
+- 🔐 Security audit with severity levels
+- ♻️ Refactoring plan with before/after snippets
+- ⚡ Real-time token-by-token SSE streaming
+- 📊 Side-by-side diff view with Monaco Editor
+- 🗂️ Per-user audit history with Supabase Auth
+- 🌐 Supports 17 programming languages
+
+```
+Next.js 14 · FastAPI · Llama 3.3 70B · Groq
+LangChain · Radon · Monaco Editor · Supabase
+```
+
+**[🌐 Web](https://legacy-code-whisperer.vercel.app)** · **[⭐ GitHub](https://github.com/dominguezz05/LegacyCode-Whisperer)**
+
+<img src="https://img.shields.io/badge/AI-Powered-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Streaming-SSE-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Languages-17+-orange?style=flat-square"/>
+
+</td>
+<td width="50%">
+
 ### ⚡ Focus Pulse
 #### VS Code Extension · 2.4K+ Lines
 
@@ -100,15 +126,18 @@ const iker = {
 - 🔮 Predictive fatigue detection
 
 ```
-TypeScript • VS Code API • Git Integration
+TypeScript · VS Code API · Git Integration
 Published on Marketplace
 ```
 
-**[📦 Marketplace](https://marketplace.visualstudio.com/items?itemName=dominguezz05.focus-pulse)** · **[⭐ GitHub](https://github.com/dominguezz05/focus-pulse)** · **[⭐ Open VSX ](https://open-vsx.org/extension/dominguezz05/focus-pulse)**
+**[📦 Marketplace](https://marketplace.visualstudio.com/items?itemName=dominguezz05.focus-pulse)** · **[⭐ GitHub](https://github.com/dominguezz05/focus-pulse)** · **[⭐ Open VSX](https://open-vsx.org/extension/dominguezz05/focus-pulse)**
 
 <img src="https://img.shields.io/visual-studio-marketplace/i/dominguezz05.focus-pulse?color=blue&label=Installs&style=flat-square"/> <img src="https://img.shields.io/visual-studio-marketplace/r/dominguezz05.focus-pulse?color=green&label=Rating&style=flat-square"/>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🔐 SDAS
@@ -123,13 +152,36 @@ Published on Marketplace
 - 🧪 Simulation environment
 
 ```
-Java • Security Engineering • Pattern Detection
+Java · Security Engineering · Pattern Detection
 Educational Project
 ```
 
 **[⭐ GitHub](https://github.com/dominguezz05/SDAS-Security-Detection-Analysis-System)**
 
 <img src="https://img.shields.io/badge/Security-Advanced-red?style=flat-square"/> <img src="https://img.shields.io/badge/Java-17+-orange?style=flat-square"/>
+
+</td>
+<td width="50%">
+
+### 🏭 ThreeLogics
+#### Warehouse Optimization System (TFG)
+
+**AI-powered logistics optimization platform**
+
+- 📦 Inventory management
+- 🚚 Route optimization algorithms
+- 📊 Predictive analytics
+- 📈 Real-time monitoring
+- 🎯 Decision support system
+
+```
+Full-Stack · Optimization · Data Analysis
+Final Degree Project
+```
+
+**[🌐 Web](https://threelogicsapp.vercel.app/)** · **[⭐ GitHub](https://github.com/threeLogics/threelogics-app)**
+
+<img src="https://img.shields.io/badge/AI-Powered-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Grade-Outstanding-gold?style=flat-square"/>
 
 </td>
 </tr>
@@ -149,59 +201,31 @@ Educational Project
 - ⚡ Performance analyzer
 
 ```
-Full-Stack • React • Node.js
+Full-Stack · React · Node.js
 Productivity Suite
 ```
 
-**[🌐 Web](https://devtools-express.vercel.app/)** ·
-**[⭐ GitHub](https://github.com/dominguezz05/devtools-express)**
+**[🌐 Web](https://devtools-express.vercel.app/)** · **[⭐ GitHub](https://github.com/dominguezz05/devtools-express)**
 
 <img src="https://img.shields.io/badge/Tools-10+-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square"/>
 
 </td>
 <td width="50%">
 
-### 🏭 ThreeLogics
-#### Warehouse Optimization System (TFG)
-
-**AI-powered logistics optimization platform**
-
-- 📦 Inventory management
-- 🚚 Route optimization algorithms
-- 📊 Predictive analytics
-- 📈 Real-time monitoring
-- 🎯 Decision support system
-
-```
-Full-Stack • Optimization • Data Analysis
-Final Degree Project
-```
-
-**[🌐 Web](https://threelogicsapp.vercel.app/)** ·
-**[⭐ GitHub](https://github.com/threeLogics/threelogics-app)**
-
-<img src="https://img.shields.io/badge/AI-Powered-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Grade-Outstanding-gold?style=flat-square"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
 ### 🎮 Monkey's Paradise
 #### 2D Mobile Arcade Game · Google Play
 
 **Physics-based mobile game with AI enemies**
 
-- 🕹️ Advanced 2D physics engine
-- 🤖 Enemy AI with pathfinding
+- 🕹️ 15 levels with unique mechanics per level
+- 🤖 Multi-phase bosses with cinematic animations
 - 🎨 Custom animations & sprites
 - 📱 Optimized for Android
 - 🏆 Achievement system
 
 ```
-Game Development • Android SDK • Physics Simulation
-Published on Google Play Store
+Game Development · Android SDK · Canvas API
+Published on Google Play Store & Itch.io
 ```
 
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Downloads-500+-green?style=flat-square"/> <img src="https://img.shields.io/badge/Rating-4.2⭐-yellow?style=flat-square"/>
@@ -225,15 +249,15 @@ Published on Google Play Store
 ### 🌐 Web & Mobile Development
 Building scalable, performant web applications with modern frameworks and best practices.
 
-**React · Vue · Tailwind · Vite**
+**React · Next.js · Vue · Tailwind · Vite**
 
 </td>
 <td align="center" width="25%">
 
-### 🔧 Developer Tooling
-Creating tools that enhance developer experience and productivity.
+### 🤖 AI & LLM Integration
+Building AI-powered tools with real-time streaming, LLM orchestration, and hybrid analysis pipelines.
 
-**VS Code Extensions · CLI · Git Hooks**
+**LangChain · Groq · FastAPI · SSE**
 
 </td>
 <td align="center" width="25%">
@@ -246,71 +270,16 @@ Implementing defensive security measures and threat detection systems.
 </td>
 <td align="center" width="25%">
 
-### 📊 Data & Optimization
-Analyzing metrics to drive decisions and optimize processes.
+### 🔧 Developer Tooling
+Creating tools that enhance developer experience and productivity.
 
-**Analytics · Algorithms · Performance**
+**VS Code Extensions · CLI · Git Hooks**
 
 </td>
 </tr>
 </table>
 
 </div>
-
----
-
-## 🌱 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Iker))
-    Developer Tooling
-      VS Code Extensions
-      CLI Tools
-      Git Automation
-    Security
-      Threat Detection
-      Code Analysis
-      Security Monitoring
-    Full-Stack Dev
-      React Ecosystem
-      Node.js APIs
-      Cloud Services
-    Learning
-      Advanced Security
-      CI/CD Pipelines
-      Cloud Architecture
-```
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🔨 Building
-**Focus Pulse v3.0**
-AI-powered developer analytics with team features
-
-</td>
-<td width="33%" align="center">
-
-### 📚 Learning
-**Advanced Security Patterns**
-Deepening knowledge in defensive security & automation
-
-</td>
-<td width="33%" align="center">
-
-### 🎯 Next Up
-**Security Tools Suite**
-Collection of security-focused developer tools
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -339,7 +308,8 @@ Focus: Mobile Development, Cross-platform Solutions, Performance
 
 <br>
 
-- ⚡ Published VS Code extension with 500+ installs
+- 🧠 Built AI-powered technical debt auditor with real-time LLM streaming
+- ⚡ Published VS Code extension with 400+ installs
 - 🎮 Mobile game published on Google Play Store
 - 🔐 Built educational security monitoring system
 - 🧰 Created developer productivity platform
@@ -389,6 +359,7 @@ Best for: Detailed project showcases
 
 - 💼 Full-time software engineering positions
 - 🚀 Freelance/contract work on interesting projects
+- 🤖 AI/LLM-powered product development
 - 🔐 Security-focused development roles
 - 🧰 Developer tooling and DX improvement projects
 - 📚 Open source collaborations
