@@ -383,6 +383,14 @@ Best for: Detailed project showcases
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dominguezz05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominguezz05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
+</div>
+
+---
+
+<div align="center">
 
 ### 💡 Random Dev Quote
 
